@@ -1,0 +1,37 @@
+/* my first css */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: hsl(060, 100%, 90%);
+  /*color: hsl(0, 80%, 100%);*/
+}
+
+img {
+  border: 10px solid hsl(120, 100%, 30%);
+}
+
+h1 {
+  border: 5px dotted hsl(0, 100%, 50%);
+}
+
+blockquote {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 3rem;
+  font-style: italic;
+  text-align: center;
+}
+
+cite {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: right;
+}
+
+.bigbold {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+a:link {
+  
+}
